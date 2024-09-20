@@ -22,7 +22,7 @@ import java.util.List;
 
 
 @RestController
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://proyectofinal-omega.vercel.app/")
 @RequestMapping("/api/admin")
 @RequiredArgsConstructor
 public class UsuarioAdminController {

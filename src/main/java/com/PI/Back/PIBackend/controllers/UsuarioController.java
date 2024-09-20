@@ -25,7 +25,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/")
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://proyectofinal-omega.vercel.app/")
 @RequiredArgsConstructor
 public class UsuarioController {
 
